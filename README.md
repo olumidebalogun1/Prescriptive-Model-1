@@ -1,7 +1,7 @@
 # **Market Basket Analysis: Understanding Customer Purchase Behavior**
 
 ## **Introduction**
-In today’s competitive retail landscape, **understanding customer buying patterns is crucial** for boosting sales and enhancing the shopping experience. Using **Market Basket Analysis**, a type of **prescriptive modeling**, I built and deployed my **first Python-based model** to identify frequently bought product combinations—providing insights that help **optimize store layouts, improve promotions, and drive cross-selling**, ultimately increasing **revenue and customer satisfaction**.
+In today’s competitive retail landscape, **understanding customer buying patterns is crucial** for boosting sales and enhancing the shopping experience. Using **Market Basket Analysis**, a type of **prescriptive modeling**, I built and deployed my **first Python-based model** to identify frequently bought product combinations, providing insights that help **optimize store layouts, improve promotions, and drive cross-selling**, ultimately increasing **revenue and customer satisfaction**.
 
 
 ## **Why This Market Basket Analysis Project Matters**
